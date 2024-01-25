@@ -1,0 +1,3 @@
+C:/Users/CharlotteJ/Documents/Projects/foobar/build/CMakeFiles/FooBar.dir
+C:/Users/CharlotteJ/Documents/Projects/foobar/build/CMakeFiles/edit_cache.dir
+C:/Users/CharlotteJ/Documents/Projects/foobar/build/CMakeFiles/rebuild_cache.dir
